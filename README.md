@@ -8,5 +8,5 @@ git add adds a file to the staging phase and prepares it to commit
 git commit puts in the commit stage and commits it
 git push which pushes a file to the remote dir.
 git checkout -b (branch name) creates a new branch
-git clone (url) to clone remote to local
+git clone (url) to clone remote to local.
 
